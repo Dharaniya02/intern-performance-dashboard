@@ -13,3 +13,5 @@
 - Started Sprint 2 by performing exploratory data analysis (EDA), analyzing performance trends and generating insights from the dataset.
 ### Day 6
 - Calculated key KPI metrics (average performance, attendance, completion rate), resolved formatting issues.
+### Day 7
+- Enhanced dashboard with interactive features, added visualizations (charts), and implemented slicers for better data analysis.
