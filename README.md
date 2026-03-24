@@ -15,3 +15,5 @@
 - Calculated key KPI metrics (average performance, attendance, completion rate), resolved formatting issues.
 ### Day 7
 - Enhanced dashboard with interactive features, added visualizations (charts), and implemented slicers for better data analysis.
+### Day 8
+- Finalized dashboard, validated data, and prepared project for presentation.
