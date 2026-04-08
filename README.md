@@ -1,9 +1,11 @@
 📊 Intern Performance Analysis Dashboard
+
 📌 Project Overview
 
 This project focuses on analyzing intern performance and building an interactive dashboard to generate meaningful insights for decision-making.
 
 -> Sprint Progress
+
 Sprint 1: Data Preprocessing
 Cleaned and structured dataset
 Handled missing and inconsistent data
