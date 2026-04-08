@@ -1,19 +1,31 @@
-## 📅 Daily Progress
+📊 Intern Performance Analysis Dashboard
+📌 Project Overview
 
-### Day 1
-- Dataset creation and initial preprocessing
+This project focuses on analyzing intern performance and building an interactive dashboard to generate meaningful insights for decision-making.
 
-### Day 2
-- Data validation and logical corrections
-### Day 3
-- Initiated exploratory data analysis (EDA) and generated basic insights from the cleaned dataset
-### Day 4
-- Completed Sprint 1 by finalizing data preprocessing, ensuring data consistency, implementing performance categorization and ranking, and preparing the dataset for visualization and dashboard creation.
-### Day 5
-- Started Sprint 2 by performing exploratory data analysis (EDA), analyzing performance trends and generating insights from the dataset.
-### Day 6
-- Calculated key KPI metrics (average performance, attendance, completion rate), resolved formatting issues.
-### Day 7
-- Enhanced dashboard with interactive features, added visualizations (charts), and implemented slicers for better data analysis.
-### Day 8
-- Finalized dashboard, validated data, and prepared project for presentation.
+-> Sprint Progress
+Sprint 1: Data Preprocessing
+Cleaned and structured dataset
+Handled missing and inconsistent data
+Created calculated columns
+
+Sprint 2: Exploratory Data Analysis
+Analyzed performance, attendance, and tasks
+Identified trends and patterns
+Generated initial insights
+
+Sprint 3: KPI & Dashboard Development
+Defined key KPIs for performance evaluation
+Built interactive Power BI dashboard
+Implemented multiple visualizations and filters
+Generated actionable insights
+
+📊 Key Insights
+Performance varies across time
+Skill gap exists between levels
+Medium-level tasks dominate
+Department contribution is uneven
+
+🛠️ Tools Used
+Power BI
+Microsoft Excel
